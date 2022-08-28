@@ -1,0 +1,38 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background: white;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+    height: auto;
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    margin: auto;
+    text-align: center;
+    background: #eee;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+#img-div{
+    background: white;
+    margin-top: 20px;
+    margin: 10px;
+    
+}
+
+h1 {
+    margin-top: 40px;
+    font-size: 2.5rem;
+}
+
+#img-caption{
+    padding: 20px;
+}
